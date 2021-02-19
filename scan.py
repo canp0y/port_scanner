@@ -1,3 +1,4 @@
+#Total SCore: 87/100
 # -*- coding: utf-8 -*-
 import argparse
 import nmap3 
