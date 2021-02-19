@@ -75,4 +75,3 @@ ports:[{"type": "tcp", "port": 80, "state": "closed", "service": "http"}]`
 {"type": "tcp", "port": "445", "state": "filtered", "service": "microsoft-ds"}, {"type": "tcp", "port": "3389",
 "state": "filtered", "service": "ms-wbt-server"}]`
 
-# port_scanner
